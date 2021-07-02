@@ -10,6 +10,7 @@
                                |_____|
 ```
 
+![](https://hit.yhype.me/github/profile?user_id=64628456)
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
 <p style="text-align: center;"> 
