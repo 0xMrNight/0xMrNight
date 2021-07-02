@@ -20,6 +20,8 @@
 - 🌱 I’m currently learning about PGP encryption.
 - 😄 Pronouns: he/him
 
+<!-- Thanks to https://github.com/Ileriayo/markdown-badges for links to most of the badges here -->
+
 ### 📫 How to reach me:
 
 <div style="height: 25px">
