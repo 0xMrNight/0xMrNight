@@ -42,6 +42,9 @@
     My Github Stats 
 </h2>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnightdev&show_icons=true&theme=radical) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrnightdev&theme=radical)
 
