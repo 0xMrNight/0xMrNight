@@ -13,6 +13,13 @@
 
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
+<h2> 
+    <img src="./assets/github-mark-light.png" width="18px"> 
+    My Github Stats 
+</h2>
+
+![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnightdev&show_icons=true&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrnightdev&theme=radical)
 
 <!--
 - 🔭 I’m currently working on ...
