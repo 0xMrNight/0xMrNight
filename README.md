@@ -3,11 +3,11 @@
 </h1>
 
 ```
- _______            _______ __         __     __   
-|   |   |.----.    |    |  |__|.-----.|  |--.|  |_ 
+ _______            _______ __         __     __
+|   |   |.----.    |    |  |__|.-----.|  |--.|  |_
 |       ||   _|    |       |  ||  _  ||     ||   _|
 |__|_|__||__|      |__|____|__||___  ||__|__||____|
-                               |_____|             
+                               |_____|
 ```
 
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
@@ -37,6 +37,24 @@
 
 <br />
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][github]
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)][gitlab]
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Jekyll](https://img.shields.io/badge/jekyll-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+
 <h2> 
     <img src="./assets/github-mark-light.png" width="18px"> 
     My Github Stats 
@@ -45,8 +63,10 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnightdev&show_icons=true&theme=radical) 
+![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnightdev&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrnightdev&theme=radical)
 
 [twitter]: https://twitter.com/0xMrNight
 [email]: mailto://0xmrnight@gmail.com
+[github]: https://github.com/mrnightdev
+[gitlab]: https://gitlab.com/0xMrNight
