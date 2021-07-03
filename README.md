@@ -14,31 +14,22 @@
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
 <p style="text-align: center;"> 
-    <samp style=""> I am Siddharth Arumugam - Full stack Web Dev and Cyber Sec researcher. </samp>
+    <samp> I am Siddharth Arumugam - Full stack Web Dev and Cyber Sec researcher. </samp>
 </p>
 
 - 🔭 I’m currently working on my [blog](https://blog.mrnight.tk).
 - 🌱 I’m currently learning about PGP encryption.
 - 😄 Pronouns: he/him
 
-<!-- Thanks to https://github.com/Ileriayo/markdown-badges for links to most of the badges here -->
-
 ### 📫 How to reach me:
 
-<div style="height: 25px">
-  <a href="mailto:0xmrnight@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/0xMrNight">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/713019770949206016">
-    <img alt="Discord" src="./assets/discord-logo.svg" height="25px" />
-    <code> Mr Night#6181 </code>
-  </a>
-</div>
+- <img src="./assets/gmail-logo.svg" height="14px"> Send me an [email][email]
+- <img src="./assets/twitter-logo.svg" height="14px"> Twitter: [@0xMrNight][twitter]
+- <img src="./assets/discord-logo.svg" height="14px"> DM me on [discord](https://discord.com/users/713019770949206016) - `Mr Night#6181`
 
 <br />
+
+<!-- Thanks to https://github.com/Ileriayo/markdown-badges for links to most of the badges here -->
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][github]
@@ -59,9 +50,11 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
 <!--START_SECTION:waka-->
+
 ```text
-Markdown   53 mins         █████████████████████████   100.00 % 
+Markdown   53 mins         █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 <h2> 
