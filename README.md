@@ -64,6 +64,9 @@
 </h2>
 
 <!--START_SECTION:waka-->
+```text
+Markdown   53 mins         █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
 ![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnightdev&show_icons=true&theme=radical)
