@@ -19,6 +19,7 @@
 
 - 🔭 I’m currently working on my [blog](https://blog.mrnight.tk).
 - 🌱 I’m currently learning about PGP encryption.
+- 💬 Ask me about Git, Python or JavaScript
 - 😄 Pronouns: he/him
 
 ### 📫 How to reach me:
