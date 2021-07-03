@@ -58,16 +58,16 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
-<h2> 
-    <img src="./assets/github-mark-light.png" width="18px"> 
-    My Github Stats 
-</h2>
-
 <!--START_SECTION:waka-->
 ```text
 Markdown   53 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
+
+<h2> 
+    <img src="./assets/github-mark-light.png" width="18px"> 
+    My Github Stats 
+</h2>
 
 ![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnightdev&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrnightdev&theme=radical)
