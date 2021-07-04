@@ -51,11 +51,13 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
 <!--START_SECTION:waka-->
-
 ```text
-Markdown   53 mins         █████████████████████████   100.00 %
+Markdown   2 hrs 54 mins   █████████████████████▒░░░   85.06 % 
+HTML       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Bash       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+YAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
-
 <!--END_SECTION:waka-->
 
 <h2> 
