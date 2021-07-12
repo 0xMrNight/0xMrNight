@@ -17,8 +17,11 @@
     <samp> I am Siddharth Arumugam - Full stack Web Dev and Cyber Sec researcher. </samp>
 </p>
 
+<!--
 - 🔭 I’m currently working on my [blog](https://blog.mrnight.tk).
-- 🌱 I’m currently learning about PGP encryption.
+- 🌱 I’m currently learning about PGP encryption. 
+-->
+- Currently on a small break
 - 💬 Ask me about Git, Python or JavaScript
 - 👯 I’m looking to collaborate on the [Phi Discord Bot](https://github.com/thevynk/discord-bot).
 - 😄 Pronouns: he/him
@@ -53,13 +56,6 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   9 hrs 1 min     ███████████▓░░░░░░░░░░░░░   47.24 % 
-Python       2 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Markdown     2 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-JSON         1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Other        1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-```
 <!--END_SECTION:waka-->
 
 <h2> 
