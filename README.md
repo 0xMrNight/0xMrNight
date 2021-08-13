@@ -18,10 +18,9 @@
 </p>
 
 <!--
-- 🔭 I’m currently working on my [blog](https://blog.mrnight.tk).
 - 🌱 I’m currently learning about PGP encryption. 
 -->
-- Currently on a small break
+- 🔭 I’m currently working on [Hack Armour's landing page](https://github.com/hackarmour/ha-landing-page).
 - 💬 Ask me about Git, Python or JavaScript
 - 👯 I’m looking to collaborate on the [Phi Discord Bot](https://github.com/thevynk/discord-bot).
 - 😄 Pronouns: he/him
@@ -63,8 +62,8 @@
     My Github Stats 
 </h2>
 
-![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrnightdev&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrnightdev&theme=radical)
+![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMrNight&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xMrNight&theme=radical)
 
 [twitter]: https://twitter.com/0xMrNight
 [email]: mailto://0xmrnight@gmail.com
