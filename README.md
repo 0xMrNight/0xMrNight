@@ -13,17 +13,23 @@
 ![](https://hit.yhype.me/github/profile?user_id=64628456)
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
-<p style="text-align: center;"> 
+<!-- 
+<p align="center"> 
     <samp> I am Siddharth Arumugam - Full stack Web Dev and Cyber Sec researcher. </samp>
-</p>
+</p> 
+-->
+
+<img align="right" width="100" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif">
 
 <!--
 - 🌱 I’m currently learning about PGP encryption. 
+- 👯 I’m looking to collaborate on 
 -->
-- 🔭 I’m currently working on [Hack Armour's landing page](https://github.com/hackarmour/ha-landing-page).
+- 🔭 I’m currently [ricing](https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice) linux.
 - 💬 Ask me about Git, Python or JavaScript
-- 👯 I’m looking to collaborate on the [Phi Discord Bot](https://github.com/thevynk/discord-bot).
 - 😄 Pronouns: he/him
+
+---
 
 ### 📫 How to reach me:
 
@@ -49,10 +55,11 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
