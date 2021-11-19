@@ -69,8 +69,8 @@
     My Github Stats 
 </h2>
 
-![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMrNight&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xMrNight&theme=radical)
+![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMrNight&show_icons=true&theme=nord)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xMrNight&theme=nord)
 
 [twitter]: https://twitter.com/0xMrNight
 [email]: mailto://0xmrnight@gmail.com
