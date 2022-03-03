@@ -24,8 +24,8 @@
 <!--
 - 🌱 I’m currently learning about PGP encryption. 
 - 👯 I’m looking to collaborate on 
--->
 - 🔭 I’m currently [ricing](https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice) linux.
+-->
 - 💬 Ask me about Git, Python or JavaScript
 - 😄 Pronouns: he/him
 
