@@ -1,5 +1,5 @@
 <h1 style="text-align: center;"> 
-    Hey there <img src="./assets/wave.gif" width="28px">
+    Hey there <img src="./assets/wave.gif" height="30px">
 </h1>
 
 ```
@@ -10,7 +10,6 @@
                                |_____|
 ```
 
-![](https://hit.yhype.me/github/profile?user_id=64628456)
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
 <!-- 
@@ -22,12 +21,12 @@
 <img align="right" width="100" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif">
 
 <!--
-- 🌱 I’m currently learning about PGP encryption. 
+- 🌱 I’m currently learning about  
 - 👯 I’m looking to collaborate on 
-- 🔭 I’m currently [ricing](https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice) linux.
+- 🔭 I’m currently
+- 💬 Ask me about 
+- 😄 Pronouns
 -->
-- 💬 Ask me about Git, Python or JavaScript
-- 😄 Pronouns: he/him
 
 ---
 
@@ -36,7 +35,6 @@
 - <img src="./assets/gmail-logo.svg" height="14px"> Send me an [email][email]
 - <img src="./assets/twitter-logo.svg" height="14px"> Twitter: [@0xMrNight][twitter]
 - <img src="./assets/discord-logo.svg" height="14px"> DM me on [discord](https://discord.com/users/713019770949206016) - `Mr Night#6181`
-- <img src="./assets/keybase-icon.svg" height="14px"> Keybase: [mrnight](https://keybase.io/mrnight)
 
 <br />
 
@@ -74,5 +72,5 @@
 
 [twitter]: https://twitter.com/0xMrNight
 [email]: mailto://0xmrnight@gmail.com
-[github]: https://github.com/mrnightdev
+[github]: https://github.com/0xMrNight
 [gitlab]: https://gitlab.com/0xMrNight
