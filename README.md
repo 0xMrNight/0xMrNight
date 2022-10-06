@@ -12,12 +12,6 @@
 
 ![](https://komarev.com/ghpvc/?username=d3vsid-sudo&label=Profile+Views&style=plastic)
 
-<!-- 
-<p align="center"> 
-    <samp> I am Siddharth Arumugam - Full stack Web Dev and Cyber Sec researcher. </samp>
-</p> 
--->
-
 <img align="right" width="100" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif">
 
 <!--
@@ -34,43 +28,10 @@
 
 - <img src="./assets/gmail-logo.svg" height="14px"> Send me an [email][email]
 - <img src="./assets/twitter-logo.svg" height="14px"> Twitter: [@0xMrNight][twitter]
-- <img src="./assets/discord-logo.svg" height="14px"> DM me on [discord](https://discord.com/users/713019770949206016) - `Mr Night#6181`
-
-<br />
-
-<!-- Thanks to https://github.com/Ileriayo/markdown-badges for links to most of the badges here -->
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][github]
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)][gitlab]
-
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Jekyll](https://img.shields.io/badge/jekyll-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<!-- - <img src="./assets/discord-logo.svg" height="14px"> DM me on [discord](https://discord.com/users/713019770949206016) - `Mr Night#6181` -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<h2> 
-    <img src="./assets/github-mark-light.png" width="18px"> 
-    My Github Stats 
-</h2>
-
-![Siddharth Arumugam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xMrNight&show_icons=true&theme=nord)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xMrNight&theme=nord)
-
 [twitter]: https://twitter.com/0xMrNight
 [email]: mailto://0xmrnight@gmail.com
-[github]: https://github.com/0xMrNight
-[gitlab]: https://gitlab.com/0xMrNight
