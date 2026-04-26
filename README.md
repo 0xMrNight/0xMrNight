@@ -27,11 +27,11 @@
 ### 📫 How to reach me:
 
 - <img src="./assets/gmail-logo.svg" height="14px"> Send me an [email][email]
-- <img src="./assets/twitter-logo.svg" height="14px"> Twitter: [@0xMrNight][twitter]
+<!-- - <img src="./assets/twitter-logo.svg" height="14px"> Twitter: [@0xMrNight][twitter] -->
 <!-- - <img src="./assets/discord-logo.svg" height="14px"> DM me on [discord](https://discord.com/users/713019770949206016) - `Mr Night#6181` -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[twitter]: https://twitter.com/0xMrNight
+<!-- [twitter]: -->
 [email]: mailto://0xmrnight@gmail.com
